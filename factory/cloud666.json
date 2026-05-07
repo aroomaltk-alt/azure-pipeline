@@ -1,0 +1,15 @@
+{
+	"name": "cloud666",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29abefd5-25da-4040-83be-6649ca04623e",
+		"tenantId": "cba8be7f-2f10-4282-8de7-e3590a0781f7"
+	}
+}
